@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2, h3, h4, h5 {
+    color:rgb(109, 109, 37);
+    font-size: 30px;
+}
+
+p {
+    background-color: yellow;
+    font-size: 20px;
+    color: grey;
+}
+
+a {
+    color: black;
+    font-size: 23px;
+    background-color:coral;
+}
+
+img {
+    border: 2px solid rgb(54, 42, 165);
+}
+
+table {
+    background-color:lightblue;
+    font-size: 20px;
+    text-align: center;
+    border:1px solid yellow;
+
+}
+
+footer {
+   background-color:lightcoral;
+    font-size: 20px;
+    }
